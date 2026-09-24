@@ -1,0 +1,27 @@
+# Compiled class file
+*.class
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
